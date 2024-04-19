@@ -1,0 +1,114 @@
+#judul{
+    background-color: rgb(163, 62, 62);
+    text-align: center;
+    margin-top: 0%;
+}
+
+.M1{
+    background-color: burlywood;
+    border: 5px solid brown;
+    width: 100%;
+    margin: auto;
+    margin-top: 0%;
+}
+
+.M2{
+    display: contents;
+    align-items: center;
+    margin-top: 0%;
+}
+
+#M3{
+    width: 500px;
+    height: 250px;
+    margin: 0%;
+}
+   
+
+#M4{
+    width: 500px;
+    height: 250px;
+    margin: 0%;
+}
+
+#M5{
+    width: 500px;
+    height: 250px;
+    margin: 0%
+}
+
+#M6{
+    width: 500px;
+    height: 250px;
+    margin: 0%
+}
+
+#M7{
+    width: 500px;
+    height: 250px;
+    margin: 0%
+}
+
+#M8{
+    width: 500px;
+    height: 250px;
+    margin: 0%
+}
+
+.Description{
+    flex-wrap: nowrap;
+}
+
+h2{
+    margin-top: 0%;
+}
+
+h1{
+    margin-top: 0%;
+}
+
+#judull{
+    background-color: bisque;
+    text-align: center;
+}
+
+
+#first{
+background-color: bisque;
+padding: 10px;
+border: 5px solid brown;
+text-align: right;
+color: black;
+
+}
+
+#dua{
+    background-color: bisque;
+    padding: 0%;
+    border: 5px solid brown;
+    text-align: right;
+}
+
+#tiga{
+    background-color: bisque;
+    padding: 0%;
+    border: 5px solid brown;
+    text-align: right;
+}
+
+#empat{
+    background-color: bisque;
+    padding: 10px;
+    border: 5px solid brown;
+    text-align: right;
+}   
+
+.lima{
+    background-color: bisque;
+    padding: 0%;
+    border: 5px solid brown;
+    text-align: right;
+    color: black;
+}
+
+
